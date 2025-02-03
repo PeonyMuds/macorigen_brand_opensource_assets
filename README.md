@@ -13,7 +13,7 @@ This repository contains brand assets for MacOrigen Macau, including logos, font
 
 ## License
 ### Logo
-![image](/assets/logo.tiff)
+![image](/assets/logo.png)
 #### Fonts used:
 [Crimson_Text](https://github.com/PeonyMuds/macorigen_brand_opensource_assets/blob/main/licenses/fonts/Crimson_Text_OFL.txt)  
 [Noto Serif SC](https://github.com/PeonyMuds/macorigen_brand_opensource_assets/blob/main/licenses/fonts/Noto_Sans_SC_OFL.txt)
