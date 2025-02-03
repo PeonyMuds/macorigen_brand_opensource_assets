@@ -14,7 +14,7 @@ This repository contains brand assets for MacOrigen Macau, including logos, font
 ## License
 ### Logo
 #### Fonts used:
-Crimson_Text
+Crimson_Text  
 Noto Serif SC
 
 ### Linkedin Cover
